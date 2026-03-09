@@ -38,4 +38,3 @@ def controlador_orcamentario():
 
 # Chamada da função principal
 controlador_orcamentario()
-6
