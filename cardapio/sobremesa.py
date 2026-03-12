@@ -1,6 +1,6 @@
-from item_cardapio import ItemCardapio
+from cardapio.item_cardapio import ItemCardapio
 
-class sobremesa(ItemCardapio):
+class Sobremesa(ItemCardapio):
     def __init__(self, nome, preco, tipo, tamanho, descricao):
         super().__init__(nome, preco)
         
