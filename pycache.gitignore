@@ -1,7 +1,6 @@
-avaliacao.cpython-312.pyc
-restaurante.cpython-312.pyc
-bebida.cpython-312.pyc
-item_cardapio.cpython-312.pyc
-prato.cpython-312.pyc
+cardapio/__pycache__/bebida.cpython-312.pyc
+cardapio/__pycache__/item_cardapio.cpython-312.pyc
+cardapio/__pycache__/prato.cpython-312.pyc
 cardapio/__pycache__/sobremesa.cpython-312.pyc
-teste.py
+modelos/__pycache__/avaliacao.cpython-312.pyc
+modelos/__pycache__/restaurante.cpython-312.pyc
